@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    height: 50px; ;
+    width: 150px; ;
+    background-color: black !important; 
+    color: white !important;
+}
+.pic-item{
+    height: 580px;
+}
+
+.pic-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.5);
+    
+}
+
+.txt-cont{
+    background-color: black;
+}
